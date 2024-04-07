@@ -1,1 +1,3 @@
-# multi-class-prediction-obesity-risk
+# Multiclass Obesity Risk Prediction
+
+This notebook contains a quick solution to the multiclass obesity risk classification problem based on the eponym dataset found on Kaggle (https://www.kaggle.com/competitions/playground-series-s4e2/overview). It starts with a quick analysis of the data along with some observations, follows-up with some data preprocessing, and ends with with some machine learning modelization and training. Models that were tested are the decision tree, the random forest , XGBoost, and a Multi-Layer Perceptron. The model that performed best was XGBoost. More work can be done to improve even further its results and reach a higher accuracy score, for example more hyperparameters tuning.
